@@ -45,10 +45,10 @@ The SQL analysis was transformed into an interactive *Coffee Sales Analysis Dash
 
 The dashboard provides:
 
-* Total Revenue by Coffee Type**
-* **Total Revenue by Year**
-* **Total Revenue by Payment Type**
-* **Total Transactions by Payment Type**
+* Total Revenue by Coffee Type
+* Total Revenue by Year
+* Total Revenue by Payment Type
+* **Total Transactions by Payment Type
 
 ### Interactive Filters
 
